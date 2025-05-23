@@ -1,3 +1,5 @@
+# ss13-stats-ui
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
@@ -39,4 +41,7 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
-# ss13-stats-ui
+
+## Documentation
+
+All code is licensed under the [MPLv2 License](/LICENSE.txt). Additionally, all code is "Incompatible With Secondary Licenses", as defined by the Mozilla Public License, v. 2.0.
